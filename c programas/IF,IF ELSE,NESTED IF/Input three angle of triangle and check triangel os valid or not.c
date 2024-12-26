@@ -8,7 +8,7 @@ int main(){
 	scanf("%f",&a2);
 	printf("enter third angle\n");
 	scanf("%f",&a3);
-	if (a1 > 0 && a2 > 0 && a3 > 0 && (a1 + a2 + a3) == 180)
+	if (a1 > 0 && a2 > 0 && a3 > 0 && (a1 + a2 + a3) == 180)50
 	{
 		printf("Triangle is valid");
 	}
