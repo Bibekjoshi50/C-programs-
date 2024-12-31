@@ -1,9 +1,14 @@
 #include<stdio.h>
-void printHello();
+void printHello(); // Declaration of the function
 int main (){
     printHello();
+    printHello();
+    printHello();
+    printHello();
+    printHello();
+    printHello(); // Function call
     return 0;
 }
-void PrintHello(){
-    printf("Hello !");
+void printHello(){ // Function definition
+    printf("Hello !\n");
 }
