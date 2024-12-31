@@ -1,10 +1,11 @@
 #include<stdio.h>
 void printHello();
 void printGoodbye();
+// void printHello();
 
 int main(){
-    printGoodbye();
     printHello();
+     printGoodbye();
     return 0;
 
 }
