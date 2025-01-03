@@ -3,7 +3,7 @@ void printNameste();
 void printbonjour();
 
 int main(){
-    printf("enter n for Nepali & i for indian : ");
+    printf("enter b for Nepali & i for indian : ");
     char ch;
     scanf("%c",&ch);
     if (ch == 'i')
