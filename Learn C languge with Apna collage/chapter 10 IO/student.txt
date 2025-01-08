@@ -1,0 +1,3 @@
+student name : bibek
+student age : 20
+student cgpa : 0.000000
