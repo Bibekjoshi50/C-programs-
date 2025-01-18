@@ -6,5 +6,5 @@ int main(){
     scanf("%d  %d  %f",&p,&n,&r);
     si =p * n * r /100;
     printf("The simple interest is : %f\n",si);
-    return 0;
+    
 }
