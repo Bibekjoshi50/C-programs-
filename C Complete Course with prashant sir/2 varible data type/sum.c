@@ -11,5 +11,4 @@ int main()
 
     sum =a+b;
 printf("sum of the two number is : %d", sum);
- return 0;
 }
